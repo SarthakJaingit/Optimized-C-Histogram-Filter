@@ -1,4 +1,4 @@
-# Optimized-C-Histogram-Filter
+# Optimized-C++-Histogram-Filter
 This is the code for an optimized histogram Filter in C++. 
 
 In order also speed up execution time with compiler then run command with -O3 flag in terminal
